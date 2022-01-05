@@ -57,7 +57,7 @@ You can deploy this bot anywhere.
 <p>
 <br>
 <a href="https://telegram.dog/XTZ_HerokuBot?start=RXZhbWFyaWFURy9FdmFNYXJpYSBtYXN0ZXI">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+  <img src="https://github.com/BilalSira/https-github.com-EvamariaTG">
 </a>
 </p>
 </details>
